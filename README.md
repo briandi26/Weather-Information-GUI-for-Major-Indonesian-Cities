@@ -5,7 +5,7 @@ Python 3 atau yang lebih baru diperlukan untuk dapat menjalankan program ini. Se
 * PyQt5
 * json
 
-Jalankan GUI tersebut di terminal Anda dengan perintah:
+Jalankan GUI tersebut di terminal dengan perintah:
 ```
 python3 weather_app.py
 ```
